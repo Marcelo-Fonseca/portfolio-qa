@@ -39,7 +39,7 @@ Este projeto contém os casos de teste para o recurso de cadastro de novos usuá
 
 Fique à vontade para entrar em contato comigo para parcerias, dúvidas ou oportunidades:  
 
-- Email: seuemail@exemplo.com  
+- Email: marcelo.douglas863@gmail.com  
 - LinkedIn: [MarcelodFonseca](https://www.linkedin.com/in/marcelodfonseca/)  
 
 ---
